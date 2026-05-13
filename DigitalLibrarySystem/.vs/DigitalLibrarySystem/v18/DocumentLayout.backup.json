@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|solutionrelative:libraryfrontend\\pages\\books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|c:\\users\\godxdemon\\downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\digitallibrarysystem\\libraryfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|solutionrelative:libraryfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|c:\\users\\godxdemon\\downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\digitallibrarysystem\\libraryfrontend\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|solutionrelative:libraryfrontend\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|c:\\users\\godxdemon\\downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\digitallibrarysystem\\libraryfrontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|solutionrelative:libraryfrontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -110,37 +102,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\LibraryFrontend\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryFrontend\\Program.cs",
-              "ToolTip": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\LibraryFrontend\\Program.cs",
-              "RelativeToolTip": "LibraryFrontend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T17:41:55.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\LibraryFrontend\\App.razor",
-              "RelativeDocumentMoniker": "LibraryFrontend\\App.razor",
-              "ToolTip": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\LibraryFrontend\\App.razor",
-              "RelativeToolTip": "LibraryFrontend\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T17:41:53.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\LibraryFrontend\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "LibraryFrontend\\Layout\\NavMenu.razor",
@@ -158,14 +124,14 @@
               "RelativeDocumentMoniker": "LibraryFrontend\\Pages\\Books.razor",
               "ToolTip": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\LibraryFrontend\\Pages\\Books.razor",
               "RelativeToolTip": "LibraryFrontend\\Pages\\Books.razor",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-13T17:30:06.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\ApiGateway\\appsettings.json",
               "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
@@ -177,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\ApiGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
@@ -189,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
@@ -201,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\ApiGateway\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
@@ -213,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Borrowing.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Borrowing.API\\Properties\\launchSettings.json",
@@ -225,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Borrowing.API\\Program.cs",
               "RelativeDocumentMoniker": "Borrowing.API\\Program.cs",
@@ -237,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Borrowing.API\\appsettings.json",
               "RelativeDocumentMoniker": "Borrowing.API\\appsettings.json",
@@ -249,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "BorrowController.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Borrowing.API\\Controllers\\BorrowController.cs",
               "RelativeDocumentMoniker": "Borrowing.API\\Controllers\\BorrowController.cs",
@@ -261,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "BorrowingDbContext.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Borrowing.API\\Data\\BorrowingDbContext.cs",
               "RelativeDocumentMoniker": "Borrowing.API\\Data\\BorrowingDbContext.cs",
@@ -273,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Notification.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Notification.API\\Properties\\launchSettings.json",
@@ -285,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Notification.API\\Program.cs",
               "RelativeDocumentMoniker": "Notification.API\\Program.cs",
@@ -297,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Notification.API\\appsettings.json",
               "RelativeDocumentMoniker": "Notification.API\\appsettings.json",
@@ -309,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "NotificationsController.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Notification.API\\Controllers\\NotificationsController.cs",
               "RelativeDocumentMoniker": "Notification.API\\Controllers\\NotificationsController.cs",
@@ -321,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Book.API\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Book.API\\Controllers\\BooksController.cs",
@@ -333,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "BookDbContext.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Book.API\\Data\\BookDbContext.cs",
               "RelativeDocumentMoniker": "Book.API\\Data\\BookDbContext.cs",
@@ -345,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Identity.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Identity.API\\Properties\\launchSettings.json",
@@ -357,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Identity.API\\Program.cs",
               "RelativeDocumentMoniker": "Identity.API\\Program.cs",
@@ -369,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Identity.API\\appsettings.json",
               "RelativeDocumentMoniker": "Identity.API\\appsettings.json",
@@ -381,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Identity.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Identity.API\\Controllers\\UsersController.cs",
@@ -393,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "IdentityDbContext.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\Identity.API\\Data\\IdentityDbContext.cs",
               "RelativeDocumentMoniker": "Identity.API\\Data\\IdentityDbContext.cs",
@@ -405,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\GODxDEMON\\Downloads\\service-based-arch-exercise-main\\service-based-arch-exercise-main\\DigitalLibrarySystem\\LibraryShared\\Models.cs",
               "RelativeDocumentMoniker": "LibraryShared\\Models.cs",
